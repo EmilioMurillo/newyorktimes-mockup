@@ -1,8 +1,6 @@
 # newyorktimes-mockup
 This is a fully responsive mockup of the new york times online newspaper.
 
-**Link to Site** https://emiliomurillo.github.io/newyorktimes-mockup/
-
 # Intructions
 This is a static site that only uses HTML and CSS.
 
